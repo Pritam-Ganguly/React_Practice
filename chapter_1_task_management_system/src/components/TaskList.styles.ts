@@ -7,6 +7,7 @@ export const useTaskListStyles = makeStyles({
   section: {
     width: "fit-content",
     display: "flex",
+    flexWrap: "wrap",
     gap: "16px",
   },
 });

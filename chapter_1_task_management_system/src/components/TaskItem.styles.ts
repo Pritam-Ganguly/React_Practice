@@ -2,8 +2,8 @@ import { makeStyles, tokens } from "@fluentui/react-components";
 
 export const useTaskITemStyles = makeStyles({
   card: {
-    width: "360px",
-    maxWidth: "100%",
+    width: "100%",
+    maxWidth: "420px",  
     height: "fit-content",
   },
   text: { margin: "0" },
