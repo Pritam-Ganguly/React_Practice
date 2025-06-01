@@ -1,12 +1,10 @@
-#Task Management System
+## Task Manager
+
+A type-safe task management application built with React, TypeScript, and Microsoft Fluent UI.
 
 ![alt text](image-1.png)
 
 ![alt text](image-2.png)
-
-## Task Manager
-
-A type-safe task management application built with React, TypeScript, and Microsoft Fluent UI.
 
 #### Features
 
